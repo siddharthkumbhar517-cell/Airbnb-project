@@ -122,5 +122,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ✅ **Final Note:**
 This project highlights the intersection of **data, policy, and business strategy** in the short-term rental market.
-Paris remains a dynamic case study of how regulations reshape supply, demand, and pricing in urban tourism.
+Paris remains a dynamic case study of how regulations reshape supply, demand, and pricing in urban tourism. 
+
+
 
