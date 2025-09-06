@@ -95,7 +95,7 @@ Here are some key visualizations from the analysis:
   ![Price by Locality](https://github.com/kumbharsiddharth55/Airbnb-project/blob/main/Folder/price_locality.png?raw=true)
 
 * **Impact of 2017 Regulation on Host Entries**
-  ![Regulation Impact](images/regulation_impact.png)
+  ![Regulation Impact](https://github.com/kumbharsiddharth55/Airbnb-project/blob/main/Folder/regulation_impact.png?raw=true)
 
 ---
 
