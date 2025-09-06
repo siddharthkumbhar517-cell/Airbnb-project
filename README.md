@@ -1,4 +1,4 @@
-![Stunning Paris Airbnb](https://media.timeout.com/images/106180468/image.jpg)
+![Stunning Paris Airbnb](http://sta.com.vn/UserFile/editor/images/IDEA/airbnb/sta-airbnb%20(1).png)
 
 # 🏠 Airbnb Paris Analysis
 
